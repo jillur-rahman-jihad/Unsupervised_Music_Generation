@@ -2,13 +2,31 @@
 
 This project explores various approaches to music generation, including baseline methods, deep learning models with different architectures, and reinforcement learning techniques.
 
-## Project Overview
+## Main Notebooks
+- Task1_TASK3_TASK4_BASELINE_22301723.ipynb - Contains All codes of Task 1, 3, and 4
+- TASK2_22301723.ipynb Contains All codes of TASK 2 (Because it was multi genre  I had to create a separate dataset and work on it separately using lakh midi)
+## Midi files
+- Task 1 - https://drive.google.com/drive/folders/1imN0qWL604Xqsoo7__eHUI2tN_TCq9iL?usp=sharing
+- Task 2 - https://drive.google.com/drive/folders/1YcTOAg6WoDEUoyL0Svl0mn3P_kCqKRCx?usp=sharing
+- Task 3 - https://drive.google.com/drive/folders/1NjlfLEP2xDVD5RmiV6i8iQOpdQMKGOiv?usp=sharing
+- Task 4 - https://drive.google.com/drive/folders/1e-gaglL_lj62OLnqAeiolj5Wtl4ADqHE?usp=sharing
+- Random - https://drive.google.com/drive/folders/1N_6MwY8MYnMxUyIgjeOcqAUtAjFN12mh?usp=sharing
+- Markov - https://drive.google.com/drive/folders/11ELzL7dUNwjHju0W1WnQ68UOROJMqtqI?usp=sharing 
+
+##Report
+drive link - 
+
 
 The project consists of four main tasks:
 - **TASK 1**: Basic music generation using neural networks
 - **TASK 2**: Genre-specific music generation (Classical, Jazz, Rock)
 - **TASK 3**: Multi-genre music generation with sampling
 - **TASK 4**: Reinforcement Learning-based music generation with reward modeling
+
+
+## The project is implemented By me (Single Member)
+
+
 
 ## Directory Structure
 
