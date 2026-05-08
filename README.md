@@ -12,9 +12,7 @@ This project explores various approaches to music generation, including baseline
 - Task 4 - https://drive.google.com/drive/folders/1e-gaglL_lj62OLnqAeiolj5Wtl4ADqHE?usp=sharing
 - Random - https://drive.google.com/drive/folders/1N_6MwY8MYnMxUyIgjeOcqAUtAjFN12mh?usp=sharing
 - Markov - https://drive.google.com/drive/folders/11ELzL7dUNwjHju0W1WnQ68UOROJMqtqI?usp=sharing 
-
-##Report
-drive link - 
+- Report drive link - https://drive.google.com/file/d/1kzuSSGMzXQZeIg_sHdcsJcRCGRCXGNmP/view?usp=sharing
 
 
 The project consists of four main tasks:
